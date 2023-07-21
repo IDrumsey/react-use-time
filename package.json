@@ -1,0 +1,30 @@
+{
+  "name": "react-use-time",
+  "version": "1.0.0",
+  "description": "React hook to run a callback function after the countdown completes with the ability to pause the timer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IDrumsey/react-use-time.git"
+  },
+  "keywords": [
+    "react",
+    "timer",
+    "time",
+    "countdown",
+    "play",
+    "pause",
+    "start",
+    "stop",
+    "callback"
+  ],
+  "author": "IDrumsey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IDrumsey/react-use-time/issues"
+  },
+  "homepage": "https://github.com/IDrumsey/react-use-time#readme"
+}
